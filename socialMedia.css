@@ -1,0 +1,68 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c1edf2;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+      background-color: #d9d9db;
+    }
+.active {
+      background-color: #d9d9db;
+    }
+
+h1{
+  margin-left: 74.89px
+}
+.display-1{
+  text-align: center;
+  margin: 0 0 .5rem 0;
+}
+.fa {
+  padding: 18px 16px;
+}
+p{
+  margin-left: 74.89px;
+}
+
+form{
+  margin-left: 74.89px;
+  width: 300px;
+}
+
+#exampleInputMessage1{
+  length: 300px;
+}
+
+
+
+
+.footer {
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #c1edf2;
+    color: black;
+    text-align: center;
+    margin: 0;
+}
+
+.footer-text{
+  margin: 0px;
+}
